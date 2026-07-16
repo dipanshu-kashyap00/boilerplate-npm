@@ -1,5 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Dipanshu Kashyap",
+	"description": "I am learning Backend and this is backend learning task",
+	"keywords": [
+		"Backend",
+		"Learning",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "11.11.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
